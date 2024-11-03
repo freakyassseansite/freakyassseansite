@@ -1,8 +1,14 @@
-body {
+body.home {
     background-color: white;
     background-image: url("images/yakuza-kiryu.gif");
     color: red;
     text-align: center;
     font-family: 'papyrus';
     padding:1rem;
+  }
+
+  body.destiny_page {
+    background-color: red;
+    color: black;
+    text-align: center;
   }
