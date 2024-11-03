@@ -11,4 +11,14 @@ body.home {
     background-color: red;
     color: black;
     text-align: center;
+    font-family: papyrus;
+    font-size: xx-large;
+  }
+
+  body.hell {
+    background: black;
+    color: red;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
   }
